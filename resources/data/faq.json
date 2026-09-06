@@ -1,0 +1,969 @@
+{
+  "source_url": "https://www.bgnjawatimur.com/faq/",
+  "fetched_at": "2026-09-05T06:26:43.208Z",
+  "categories": [
+    {
+      "id": "kategori-1",
+      "title": "Mekanisme Pelaksanaan Program MBG",
+      "items": [
+        {
+          "id": "faq-1-1",
+          "question": "Bagaimana mekanisme pelaksanaan program Program Makan Bergizi?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Program Pelaksanaan Program Makan Bergizi tahun 2025 akan dilaksanakan di 5000 Satuan Pelayanan Pemenuhan Gizi (SPPG) dalam 2 bentuk"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "BGN akan membangun SPPG sebanyak 1542 unit",
+                "Kerja sama BGN dengan Lembaga Negara/Pihak Ketiga sebanyak 3458 unit"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Mekanisme program menggunakan skema Bantuan Pemerintah (Banper)dengan target penerima manfaat 15 juta -16,5 juta jiwa"
+            }
+          ]
+        },
+        {
+          "id": "faq-1-2",
+          "question": "Bagaimana mekanisme pemberian Program Makan Bergizi, apakah setiap hari, seminggu sekali, atau sebulan sekali?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Setiap hari sekolah (Senin sampai Jumat/Sabtu), kecuali hari libur"
+            }
+          ]
+        },
+        {
+          "id": "faq-1-3",
+          "question": "Bagaimana pelaksanaan Program Makan Bergizi ketika bulan puasa?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Selama Ramadan, penerima manfaat MBG akan mendapatkan bingkisan makanan yang bisa dibawa pulang dan dinikmati saat berbuka."
+            }
+          ]
+        },
+        {
+          "id": "faq-1-4",
+          "question": "Mengapa tidak menggunakan konsep prasmanan seperti di Jepang dan Korea?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Keputusan model program ini diambil berdasarkan hasil studi banding kunjungan ke beberapa negara yang berhasil melakukan program makan bergizi dan sesuai budaya dan kearifan lokal kita"
+            }
+          ]
+        },
+        {
+          "id": "faq-1-5",
+          "question": "Apakah Pemda sudah mendapat petunjuk pelaksanaan dan petunjuk teknis? Kalau belum, kapan mereka akan mendapat pengarahan mengingat pelaksanaan program semakin dekat?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Sudah melalui koordinasi kementerian dan lembaga yang dilakukan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kategori-2",
+      "title": "Evaluasi & Tingkat Keberhasilan Program MBG",
+      "items": [
+        {
+          "id": "faq-2-1",
+          "question": "Beberapa daerah belum pernah menjalankan program dan uji coba, bagaimana tingkat keberhasilannya?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Kegiatan pemantauan dan pengawasan selalu dilakukan secara berkala dan terukur maka program makan bergizi ini ditargetkan berhasil"
+            }
+          ]
+        },
+        {
+          "id": "faq-2-2",
+          "question": "Mengapa memilih memberikan makanan jadi dibanding memperkuat sistem ketahanan pangan nasional?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Multiplier effect dari program ini sangat besar terhadap pertumbuhan ekonomi di wilayah sekitar SPPG. Terbangunnya SPPG dapat mengerakkan petani, peternak, dan nelayan giat menghasilkan produk yang menjadi bahan baku program makan bergizi dan secara langsung akan berpengaruh terhadap ketahanan pangan dan terbangunnya ekonomi sirkular di wilayah tersebut."
+            }
+          ]
+        },
+        {
+          "id": "faq-2-3",
+          "question": "Ada kekhawatiran terjadi masalah di awal pelaksanaan program, bagaimana menyikapinya?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Memitigasi risiko timbulnya masalah tersebut"
+            }
+          ]
+        },
+        {
+          "id": "faq-2-4",
+          "question": "Bagaimana nasib pedagang kecil yang mengandalkan jualan di sekolah-sekolah?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Dengan adanya program makan bergizi ini anak-anak di sekolah tetap dapat melakukan pembelian di warung warung dan kantin sekolah"
+            }
+          ]
+        },
+        {
+          "id": "faq-2-5",
+          "question": "Bagaimana sistem evaluasi Program Makan Bergizi untuk memastikan efektivitas pelaksanaannya?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Evaluasi program makan bergizi merupakan proses yang sangat penting untuk mengukur keberhasilan program, mengidentifikasi area yang perlu perbaikan, dan memastikan bahwa program tersebut mencapai tujuan yang telah ditetapkan. Berikut adalah beberapa komponen penting dalam sistem evaluasi program makan bergizi:"
+            },
+            {
+              "type": "paragraph",
+              "text": "1. Penentuan Indikator Kinerja, Mengukur sejauh mana program berjalan sesuai rencana, seperti"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Jumlah makanan yang didistribusikan,",
+                "Cakupan peserta yang mendapat makanan apakah sudah sesuai dengan data penerima",
+                "Frekuensi pemberian makanan.",
+                "Dilihat status gizi, serta penurunan angka kekurangan gizi dan peningkatan kualitas hidup masyarakat"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "2. Pengumpulan Data,"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Data Kuantitatif: Data yang dapat diukur secara numerik, seperti berat badan, tinggi badan, dan jumlah peserta",
+                "Data yang menggambarkan persepsi, pengalaman, dan pendapat peserta, seperti wawancara dengan peserta."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "3. Evaluasi akan dilaksanakan di setiap bagian dari pelaksanaan program baik dari sisi penyediaan bahan baku, SPPG maupun Penerima Manfaat dengan memperhatikan indikator kinerja dan target pencapaian yang telah dirancang oleh Bappenas"
+            }
+          ]
+        },
+        {
+          "id": "faq-2-6",
+          "question": "Bagaimana mengukur keberhasilan program ini secara objektif dan ilmiah dalam jangka pendek maupun panjang?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Untuk mengukur keberhasilan program ada 2 tahap :1. Jangka pendeknya bisa menggunakan Indikator Kinerja Utama (IKU) :"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Tepat Sasaran penerima manfaat makan bergizi",
+                "Identifikasi peningkatan konsumsi makanan bergizi,",
+                "Penurunan angka kekurangan gizi dan",
+                "peningkatan kesadaran masyarakat akan pentingnya makanan yang bergizi"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "2. Jangka panjangnya bisa melakukan identifikasi dampak dari program tersebut terhadap masyarakat,"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Seperti perubahan perilaku makan dan peningkatan status gizi anak",
+                "Penghematan biaya Kesehatan"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "faq-2-7",
+          "question": "Uang negara disebut sedang 'seret' karena ada pembangunan lain seperti IKN. Di sisi lain ada pengeluaran rutin yang harus dikeluarkan yakni MBG, tidakkah beban keuangan semakin berat?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Pemerintah sudah melakukan kalkulasi matang kecukupan anggaran. Program makan bergizi merupakan program strategis Nasional sehingga perlu di prioritaskan."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kategori-3",
+      "title": "Kualitas Gizi, Keamanan dan Anggaran Pangan",
+      "items": [
+        {
+          "id": "faq-3-1",
+          "question": "Bagaimana menjamin kualitas gizi yang memadai dengan anggaran Rp 10.000 per porsi di tengah tingginya inflasi dan kenaikan harga pangan?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Anggaran 10.000 adalah untuk memberi bahan makanan dalam jumlah besar, sehingga harganya lebih murah tapi tidak mengurangi kualitas gizi. Besaran untuk tiap porsi ini juga ditentukan oleh penerima manfaat dalam hal ini anak sekolah, ibu hamil, ibu menyusui dan balita yang memiliki karateristik masing-masing dalam porsinya. Selain itu, di setiap SPPG juga ada ahli gizi. Melalui ahli gizi tersebut akan dibuat menu gizi seimbang sesuai dengan Pedoman Standar Gizi dan Perencanaan Menu yang mengacu pada standar Kementerian Kesehatan."
+            }
+          ]
+        },
+        {
+          "id": "faq-3-2",
+          "question": "Apa menu yang disajikan dengan anggaran Rp 10.000?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Nasi, Lauk, Sayur, dan buah, tanpa susu. Ket: susu hanya diberikan untuk daerah-daerah yang dekat dengan sentra peternakan sapi perah, dan hanya diberikan 2-3 kali perminggu. Untuk daerah lain yang tidak dekat dengan sentra tersebut, kebutuhan kalsium dapat diganti dengan bahan pangan sumber kalsium lain dan proteinnya dapat diganti dari makanan berbahan tumbuhan."
+            }
+          ]
+        },
+        {
+          "id": "faq-3-3",
+          "question": "Siapa yang menjamin kualitas makanan yang disediakan?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Kepala SPPG dibantu oleh Ahli Gizi yang ada di masing masing SPPG"
+            }
+          ]
+        },
+        {
+          "id": "faq-3-4",
+          "question": "Apa menu yang diberikan kepada ibu hamil dan menyusui?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Menu bergizi yang telah disesuaikan dengan Angka Kecukupan Gizi masing-masing penerima manfaat termasuk ibu hamil, dan ibu menyusui."
+            }
+          ]
+        },
+        {
+          "id": "faq-3-5",
+          "question": "Bagaimana jika terjadi keracunan dalam implementasi pertama progam?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Kontrol kualitas makanan yang akan diberikan selalu dilakukan oleh Kepala SPPG dan ahli gizi dengan mekanisme makanan sebelum disajikan diperiksa dan dipastikan terkemas dalam keadaan higienis dengan beberapa langkah :"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "SPPG selalu memisahkan sample makanan yang diberikan pada hari itu untuk dilakukan uji lab",
+                "SPPG selalu menjaga hygienitas makanan yang disajikan",
+                "SPPG selalu dibersihkan setiap hari dan melakukan pest control setiap 1 minggu",
+                "BGN memitigasi risiko terkait keamanan pangan di antaranya penerapan NKV",
+                "BGN juga mengembangkan SOP jika terjadi keracunan makanan"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "faq-3-6",
+          "question": "Apakah pemerintah bisa memastikan tidak akan terjadi keracunan makanan di awal Program Makan Bergizi dijalankan?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "BGN menerapkan SOP keamanan pangan yang ketat serta manajemen risiko untuk meminimalisasi kemungkinan terjadinya keracunan makanan."
+            }
+          ]
+        },
+        {
+          "id": "faq-3-7",
+          "question": "Apa kandungan daun kelor? Mengapa harus daun kelor?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Daun kelor (Moringa oleifera) merupakan sumber gizi yang kaya dan bergizi tinggi. Berikut adalah kandungan gizi daun kelor per 100 gram:Kandungan Gizi Makro"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Kalori: 64 kkal",
+                "Protein: 6,7 gram",
+                "Lemak: 1,4 gram",
+                "Karbohidrat: 8,3 gram",
+                "Serat: 2,3 gram"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Vitamin"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Vitamin A: 756 μg (75% AKG)",
+                "Vitamin B1 (Tiamin): 0,2 mg (15% AKG)",
+                "Vitamin B2 (Riboflavin): 0,5 mg (25% AKG)",
+                "Vitamin B3 (Niasin): 2,2 mg (11% AKG)",
+                "Vitamin B6: 0,2 mg (10% AKG)",
+                "Vitamin C: 220 mg (367% AKG)"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Mineral"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Kalsium: 185 mg (19% AKG)",
+                "Fosfor: 70 mg (7% AKG)",
+                "Kalium: 1.080 mg (32% AKG)",
+                "Magnesium: 45 mg (11% AKG)",
+                "Zat besi: 4 mg (22% AKG)",
+                "Seng: 0,8 mg (5% AKG)"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Kandungan Lain"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Antioksidan: Tinggi",
+                "Asam amino esensial: 9 jenis",
+                "Isothiosianat: Anti-inflamasi dan anti-kanker"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Manfaat"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Meningkatkan kesehatan mata",
+                "Membantu mengurangi tekanan darah",
+                "Meningkatkan kesehatan kulit",
+                "Membantu mengurangi risiko penyakit kronis",
+                "Meningkatkan kekebalan tubuh"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Sumber:"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "USDA (United States Department of Agriculture)",
+                "Badan Kesehatan Dunia (WHO)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "faq-3-8",
+          "question": "Bagaimana penggunaan susu untuk menu? Wilayah mana yang menjadi penyumbang produksi susu dalam negeri?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Susu sebagai produk tidak wajib dalam program makan bergizi. Susu diberikan kepada penerima manfaat yang tinggal di wilayah yang dekat dengan sentra sapi perah"
+            }
+          ]
+        },
+        {
+          "id": "faq-3-9",
+          "question": "Bagaimana memastikan kandungan gizi tetap baik di tengah proses pengiriman yang mengalami hambatan infrastruktur dan kondisi cuaca yang tidak baik? Jalan rusak hingga musim hujan dan longsor, Dimana akses jalan banyak terjadi penutupan?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Kepala SPPG harus memastikan setiap hari bahwa pengiriman makanan dilakukan dalam kondisi yang aman dan berkoordinasi dengan pemerintah setempat. Kepala SPPG harus mempunyai perencanaan dalam situasi darurat berkoordinasi dengan Pemerintah setempat."
+            }
+          ]
+        },
+        {
+          "id": "faq-3-10",
+          "question": "Bagaimana stok bahan pangan, ketersediaan gas, minyak goreng?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Stok pangan saat ini mencukupi. Selain itu juga dilakukan kerja sama dengan lembaga terkait penyediaan dan ketersediaan"
+            }
+          ]
+        },
+        {
+          "id": "faq-3-11",
+          "question": "Bagaimana menjaga kebersihan makanan, kebersihan tempat makan?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Untuk kebersihan sudah terjamin, karena setiap SPPG telah melakukan prosedur yang mengutamakan higienitas mulai dari persiapan, pengolahan/produksi, pemorsian, hingga pendistribusian"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kategori-4",
+      "title": "Pengawasan dan Anti Korupsi",
+      "items": [
+        {
+          "id": "faq-4-1",
+          "question": "Bagaimana memastikan tidak ada penyelewengan dan korupsi dalam pengadaan dan distribusi makanan untuk Program Makan Bergizi Gratis?",
+          "blocks": [
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Mekanisme melalui Bantuan Pemerintah dengan model at cost (Pembayaran dilakukan berdasarkan pengajuan pembelian bahan baku)",
+                "Pembelian bahan baku dengan penggunaan sistem e-katalog (koperasi/bumdesa sebagai penyedia bahan baku)",
+                "Pengendalian dan operasionalisasi SPPG dilakukan oleh Kepala SPPG () bekerjasama dengan penerima bantuan (yayasan), dimana pencairan hanya bisa dilakukan bersama antara penerima bantuan dan Kepala SPPG (perwakilan BGN) dan ini menggunakan mekanisme perbankan yang diatur ketentuannya oleh BGN",
+                "Monitoring oleh Kedeputian Bidang Pemantauan dan Pengawasan Badan Gizi Nasional"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "faq-4-2",
+          "question": "Bagaimana peran SPPG dalam merespons banyaknya kasus penipuan? Apakah mereka diberikan pelatihan khusus? Bagaimana cara melaporkan penipuan kepada SPPG?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Kepala SPPG mendapatkan pelatihan khusus untuk mengatasi permasalahan-permasalahan seperti ini"
+            }
+          ]
+        },
+        {
+          "id": "faq-4-3",
+          "question": "Bagaimana mengawasi ribuan bahkan puluhan vendor katering yang terlibat?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "BGN menempatkan 1 orang kepala SPPG di setiap SPPG"
+            }
+          ]
+        },
+        {
+          "id": "faq-4-4",
+          "question": "Program Makan Bergizi justru menjadi peluang pungli oleh oknum di dunia pendidikan, seperti kasus siswa diminta membeli wadah dalam program MBG. Bagaimana pemerintah memastikan tidak ada kejadian serupa?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Program MBG merupakan salah satu program strategis nasional yang diberikan secara cuma cuma kepada penerima manfaat. BGN memiliki kedeputian pemantauan dan pengawasan yang bertugas melakukan pengawasan kegiatan program makan bergizi di seluruh SPPG dan berkoordinasi dengan Kementerian Pendidikan Dasar dan Menengah serta pihak-pihak terkait yang dapat menindak kasus ini."
+            }
+          ]
+        },
+        {
+          "id": "faq-4-5",
+          "question": "Dalam beberapa kolom komentar, publik mengaku aksi pungli ini juga terjadi di sekolahnya namun tidak tahu cara mengadu karena ada kebingungan terkait akses. Bagaimana jika kejadian serupa terjadi di banyak wilayah di Indonesia? Sedangkan pemerintah tidak tahu permasalahannya kecuali dari keluhan di medsos.",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Pengaduan bisa dilakukan dengan menyampaikan melalui saluran pengaduan masyarakat yang dibangun oleh BGN melalui lapor.bgn.go.id"
+            }
+          ]
+        },
+        {
+          "id": "faq-4-6",
+          "question": "Bagaimana koordinasi lintas kementerian dan pemerintah daerah akan berjalan efektif mengingat skala program yang sangat besar?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Koordinasi lintas kementerian dilakukan oleh Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional (Kementerian PPN/Bappenas) dan Kementerian Koordinator Pangan untuk K/L yang terlibat seperti Kemendagri, Kemenkop, KemenUMKM, Kementterian Pertanian, KKP, KemenLH, Kemen PUPR, KemenATR/BPN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kategori-5",
+      "title": "Mitra Program MBG",
+      "items": [
+        {
+          "id": "faq-5-1",
+          "question": "Bagaimana cara mendaftar sebagai mitra penyedia makanan dalam Program Makan Bergizi?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Melalu website mitra.bgn.go.id"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kategori-6",
+      "title": "Dampak dan Ketergantungan",
+      "items": [
+        {
+          "id": "faq-6-1",
+          "question": "Apa dampak program MBG terhadap program bantuan sosial lain yang sudah berjalan dan apakah tidak terjadi tumpang tindih?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tidak akan tumpang tindih, karena dilakukan koordinasi secara berkala dengan program bansos dari k/l lain. MBG ini menyasar penerima manfaat yang khusus dan tidak adan pembatasan pada daerah tertentu, lebih masif pada seluruh propinsi"
+            }
+          ]
+        },
+        {
+          "id": "faq-6-2",
+          "question": "Bagaimana memastikan program ini tidak menciptakan ketergantungan masyarakat pada bantuan pemerintah?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Bantuan pemerintah ini lebih menstimulasi pergerakan ekonomi yang ada dalam suatu daerah sampai level desa, diharapkan bantuan ini akan dikurangi sedikit demi sedikit seiring dengan pemberdayaan dan partisipasi masyarakat yang terlebih dahulu sudah diberikan edukasi tentang gizi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kategori-7",
+      "title": "Penerima Manfaat Program",
+      "items": [
+        {
+          "id": "faq-7-1",
+          "question": "Apakah yang mendapat Program Makan Bergizi hanya siswa sekolah dan santri? Bagaimana dengan Yayasan?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Yayasan yang anaknya bersekolah di sekolah umum dan keagamaan akan mendapat manfaat juga dari program ini"
+            }
+          ]
+        },
+        {
+          "id": "faq-7-2",
+          "question": "Untuk ibu hamil dan ibu menyusui, apakah ada persyaratan rentang waktu tertentu? Semisal balita usia 1-2 tahun akan mendapat Program Makan Bergizi hingga usianya menginjak 3 tahun, dan lain-lain",
+          "blocks": [
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Pemberian dilakukan setiap 1 minggu 2 kali",
+                "Tidak ada persyaratan tertentu dan bersifat umum"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kategori-8",
+      "title": "Keterlibatan Ormas dan PPN",
+      "items": [
+        {
+          "id": "faq-8-1",
+          "question": "Apakah benar ada keterlibatan ormas dalam program ini?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tidak Benar"
+            }
+          ]
+        },
+        {
+          "id": "faq-8-2",
+          "question": "Apakah program ini terkait dengan kenaikan PPN 12%?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Bahan baku produk makan bergizi bebas PPN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kategori-9",
+      "title": "Pengenalan Portal Mitra BGN",
+      "items": [
+        {
+          "id": "faq-9-1",
+          "question": "Apa itu Portal Mitra BGN?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Portal Mitra BGN adalah sistem digital resmi dari Badan Gizi Nasional yang digunakan untuk proses pendaftaran, verifikasi, dan pengelolaan mitra. Portal ini mendukung pelaksanaan Program Pemenuhan Gizi Nasional secara efisien, transparan, dan terintegrasi."
+            }
+          ]
+        },
+        {
+          "id": "faq-9-2",
+          "question": "Siapa saja yang dapat menjadi mitra?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Yang dapat mendaftar menjadi mitra pada Portal Mitra BGN yaitu:"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Yayasan atau lembaga sosial",
+                "Perusahaan (PT, CV, UMKM)",
+                "Organisasi",
+                "Usaha dagang",
+                "Instansi pemerintah"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "faq-9-3",
+          "question": "Di mana saya dapat mengakses panduan teknis penggunaan portal?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Panduan teknis (user guide) dapat diunduh melalui [link berikut]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kategori-10",
+      "title": "Pendaftaran dan Verifikasi Akun",
+      "items": [
+        {
+          "id": "faq-10-1",
+          "question": "Bagaimana cara mendaftar sebagai mitra?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Langkah-langkah pendaftaran:"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Akses laman https://mitra.bgn.go.id",
+                "Klik tombol \"Buat Akun Baru\"",
+                "Isi data mitra: nama lembaga, email, nomor telepon, jenis instansi",
+                "Lengkapi data badan usaha dan informasi perwakilan",
+                "Simpan data dan lanjutkan ke proses verifikasi"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "faq-10-2",
+          "question": "Apa saja dokumen yang perlu disiapkan?",
+          "blocks": [
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Informasi Akun (termasuk logo mitra)",
+                "Data Legal: Akta pendirian, Surat Keputusan (SK), Nomor Induk Berusaha (NIB)",
+                "Dokumen Keuangan: NPWP"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "faq-10-3",
+          "question": "Bagaimana proses verifikasi akun?",
+          "blocks": [
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Pastikan seluruh dokumen telah diunggah dengan benar",
+                "Klik tombol \"Ajukan Verifikasi\"",
+                "Tunggu hasil peninjauan dari admin",
+                "Jika disetujui, status akan berubah menjadi \"Terverifikasi\"",
+                "Jika ditolak, perbaiki dokumen dan ajukan ulang"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "faq-10-4",
+          "question": "Apakah data mitra dapat direvisi setelah verifikasi?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Ya, melalui fitur \"Revisi Data\". Langkah-langkahnya:"
+            },
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Klik tombol \"Revisi Data\"",
+                "Lakukan perubahan sesuai kebutuhan",
+                "Isi alasan perubahan",
+                "Klik \"Simpan\" dan tunggu persetujuan dari admin"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kategori-11",
+      "title": "Pengajuan Lokasi SPPG",
+      "items": [
+        {
+          "id": "faq-11-1",
+          "question": "Apa itu SPPG?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "SPPG (Satuan Pelayanan Pemenuhan Gizi) adalah unit layanan yang didirikan oleh mitra untuk mendukung distribusi makanan bergizi sesuai standar BGN."
+            }
+          ]
+        },
+        {
+          "id": "faq-11-2",
+          "question": "Bagaimana cara mengajukan lokasi SPPG?",
+          "blocks": [
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Pastikan akun mitra telah terverifikasi",
+                "Klik menu \"Ajukan Lokasi Baru\"",
+                "Tandai lokasi pada peta",
+                "Isi formulir sesuai ketentuan",
+                "Unggah dokumen pendukung seperti layout, proposal, video akses lokasi, dan lainnya"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "faq-11-3",
+          "question": "Apa saja dokumen yang diperlukan dalam pengajuan lokasi?",
+          "blocks": [
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Bukti kepemilikan atau perjanjian sewa tanah",
+                "Informasi yayasan terkait (untuk mitra non-yayasan)",
+                "Surat kerja sama",
+                "Jenis dan luas bangunan",
+                "Layout bangunan",
+                "Video akses kendaraan",
+                "Proposal pengajuan",
+                "Komitmen waktu persiapan (maksimal 45 hari)",
+                "Alamat lengkap lokasi SPPG"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "faq-11-4",
+          "question": "Apa yang perlu diperhatikan saat menandai lokasi?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Penandaan lokasi calon SPPG pada peta harus dilakukan secara cermat dan sesuai dengan kondisi aktual di lapangan. Lokasi yang telah diajukan dan dinyatakan lolos tahap verifikasi pengajuan tidak dapat diubah atau diperbaiki pada tahapan selanjutnya. Oleh karena itu, mitra wajib memastikan keakuratan lokasi sebelum melakukan pengajuan."
+            }
+          ]
+        },
+        {
+          "id": "faq-11-5",
+          "question": "Apa saja tahapan proses pengajuan lokasi SPPG?",
+          "blocks": [
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "DraftTahap di mana mitra sedang melengkapi formulir pengajuan calon lokasi SPPG.",
+                "Verifikasi PengajuanTahap di mana verifikator melakukan pemeriksaan awal terhadap data dan dokumen pengajuan calon lokasi SPPG.",
+                "Proses PersiapanTahap pelaporan progres pembangunan lokasi setelah pengajuan dinyatakan lolos verifikasi awal. Durasi proses ini mengikuti jumlah hari komitmen yang diisi oleh mitra pada formulir pengajuan.",
+                "Verifikasi PersiapanTahap pemeriksaan lanjutan oleh verifikator setelah proses persiapan dinyatakan selesai oleh calon mitra.",
+                "Penentuan Petugas SurveiTahap penugasan petugas survei oleh sistem setelah data pengajuan selesai diverifikasi, untuk melakukan verifikasi lapangan pada lokasi calon SPPG.",
+                "Survei LapanganTahap dimana Petugas Survey Lapangan melakukan survei langsung ke lokasi calon SPPG serta finalisasi data target penerima manfaat. Proses akan dilanjutkan setelah tim menyelesaikan kegiatan survei ini.",
+                "Penilaian KelayakanTahap rapat komite untuk menentukan kelayakan lokasi calon SPPG serta menetapkan tanggal mulai operasional bagi lokasi yang dinyatakan lolos.",
+                "Penunjukan KA SPPGTahap di mana Biro SDM melakukan penunjukan SPPI sebagai Kepala SPPG (KA SPPG).",
+                "Pembuatan Virtual Account (VA)Tahap di mana petugas bank membuat rekening Virtual Account (VA) untuk keperluan pencairan dana operasional SPPG.",
+                "BA VerValTahap pengisian nomor Berita Acara Verifikasi (BA VerVal) oleh verifikator sebagai bagian dari proses pengajuan kerja sama.",
+                "Unggah ProposalTahap di mana mitra mengunggah dokumen proposal. Template proposal tersedia pada sistem dan wajib dijadikan acuan.",
+                "Verifikasi ProposalTahap peninjauan proposal oleh verifikator. Persetujuan atau permintaan revisi dilakukan berdasarkan kelayakan dan kesesuaian isi dokumen.",
+                "Unggah PKSTahap pengunggahan dokumen Perjanjian Kerja Sama (PKS) oleh mitra. PKS harus telah ditandatangani secara basah, dan template PKS tersedia pada sistem sebagai referensi.",
+                "Verifikasi PKSTahap peninjauan dokumen PKS oleh Pejabat Pembuat Komitmen (PPK). Jika dinyatakan sesuai, PPK akan menyetujui dan menandatangani dokumen PKS.",
+                "SelesaiSeluruh proses pengajuan calon SPPG telah selesai. Lokasi dinyatakan layak dan siap untuk mulai beroperasi secara resmi."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "faq-11-6",
+          "question": "Bagaimana proses persetujuan akhir dilakukan?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Proposal dan dokumen Perjanjian Kerja Sama (PKS) akan melalui proses peninjauan oleh Pejabat Pembuat Komitmen (PPK). Apabila dinyatakan sesuai, maka status pengajuan akan ditetapkan sebagai “Selesai. Namun, apabila terdapat ketidaksesuaian, mitra wajib melakukan perbaikan sesuai arahan yang diberikan"
+            }
+          ]
+        },
+        {
+          "id": "faq-11-7",
+          "question": "Apa yang harus dilakukan jika pengajuan ditolak?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Mitra dapat melakukan perbaikan sesuai arahan verifikator atau mengajukan lokasi baru."
+            }
+          ]
+        },
+        {
+          "id": "faq-11-8",
+          "question": "Apakah mitra dapat mengajukan lebih dari satu lokasi?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Ya, mitra diperbolehkan mengajukan lebih dari satu lokasi selama mengikuti prosedur."
+            }
+          ]
+        },
+        {
+          "id": "faq-11-9",
+          "question": "Apakah semua kolom formulir harus diisi?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Kolom bertanda \"Wajib (*)\" harus diisi agar dapat melanjutkan ke tahap berikutnya."
+            }
+          ]
+        },
+        {
+          "id": "faq-11-10",
+          "question": "Di mana bisa memperoleh template PKS?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Template PKS dapat diunduh langsung melalui sistem pada formulir unggah dokumen akhir."
+            }
+          ]
+        },
+        {
+          "id": "faq-11-11",
+          "question": "Bagaimana cara memantau progres pengajuan?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Progres pengajuan dapat dilihat melalui dashboard portal yang menampilkan status real-time."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kategori-12",
+      "title": "Kerja Sama Mitra Non-Yayasan dan Yayasan",
+      "items": [
+        {
+          "id": "faq-12-1",
+          "question": "Mengapa mitra non-yayasan harus bekerja sama dengan mitra yayasan?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Karena hanya mitra yayasan yang dapat menerima dan mengelola dana secara langsung. Oleh karena itu, mitra non-yayasan wajib menjalin kerja sama dengan mitra yayasan."
+            }
+          ]
+        },
+        {
+          "id": "faq-12-2",
+          "question": "Bagaimana mitra yayasan menyetujui kerja sama?",
+          "blocks": [
+            {
+              "type": "list",
+              "ordered": true,
+              "items": [
+                "Masuk ke menu \"SPPG Mitra Non-Yayasan\"",
+                "Pilih pengajuan yang masuk",
+                "Klik \"Setujui\"",
+                "Isi alasan persetujuan dan klik \"Konfirmasi\""
+              ]
+            }
+          ]
+        },
+        {
+          "id": "faq-12-3",
+          "question": "Apa yang terjadi jika kerja sama ditolak?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Pengajuan dari mitra non-yayasan akan otomatis dibatalkan oleh sistem."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kategori-13",
+      "title": "Ragam DFK: Disinformasi, Fitnah, Kebencian Awal Februari 2026",
+      "items": [
+        {
+          "id": "faq-13-1",
+          "question": "Anggaran MBG korbankan anggaran renovasi sekolah?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Anggaran renovasi sekolah tahun 2025 kemarin digunakan untuk renovasi tuntas 16.140 sekolah. Tahun 2026 ini akan direnovasi 60.000 sekolah."
+            }
+          ]
+        },
+        {
+          "id": "faq-13-2",
+          "question": "Anggaran MBG tidak pas dikategorikan anggaran pendidikan?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Menurut World Food Program PBB, setiap USD 1 anggaran yang dialokasikan untuk MBG akan kembali USD 5 s/d USD 35. Hasil nyata dari MBG adalah kehadiran di sekolah naik, nilai-nilai naik, angka putus sekolah turun, dan defisiensi gizi turun."
+            },
+            {
+              "type": "paragraph",
+              "text": "Keseluruhan ini adalah indikator sukses pendidikan. Itulah kenapa menurut catatan WFP PBB, di 2025 sudah ada 466 juta anak di seluruh dunia terima MBG di sekolah - dan WFP PBB mencanangkan semua anak di dunia harus mendapatkan MBG paling lambat 2030."
+            }
+          ]
+        },
+        {
+          "id": "faq-13-3",
+          "question": "Anggaran MBG kurangi anggaran gaji dan tunjangan guru?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Anggaran gaji dan tunjangan guru tahun 2026 naik 10% dari tahun sebelumnya, dari Rp. 203 triliun (2025) naik ke Rp. 211 triliun (2026)."
+            }
+          ]
+        },
+        {
+          "id": "faq-13-4",
+          "question": "Pemerintah cetak utang demi MBG?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Sumber anggaran MBG adalah efisiensi (pengurangan) anggaran tidak berdampak langsung ke masyarakat melalui Inpres 1 / 2025, seperti sewa gedung untuk rapat, studi banding ke luar negeri, pembelian alat tulis kantor, biaya seremonial seperti HUT kementerian, dan biaya percetakan."
+            }
+          ]
+        },
+        {
+          "id": "faq-13-5",
+          "question": "Presiden tidak peduli nasib guru, utamakan nasib pegawai SPPG?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Presiden luncurkan kebijakan tunjangan guru jadi Rp. 2 juta dan ditransfer langsung dari Pemerintah Pusat pada 13 Maret 2025."
+            },
+            {
+              "type": "paragraph",
+              "text": "Wewenang pengangkatan guru non-ASN jadi ASN (PNS atau PPPK) ada di Pemerintah Daerah, karena SD dan SMP adalah kewenangan Kabupaten dan Kota, dan SMA adalah kewenangan Provinsi."
+            },
+            {
+              "type": "paragraph",
+              "text": "Sedangkan wewenang pengangkatan pegawai SPPG menjadi ASN (PPPK) adalah wewenang Pemerintah Pusat."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

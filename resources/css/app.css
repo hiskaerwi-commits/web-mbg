@@ -1,0 +1,148 @@
+@import '@fontsource-variable/plus-jakarta-sans';
+@import 'tailwindcss';
+
+.site-footer { background: #f8f9fb; color: #071e49; }
+.site-footer__container { max-width: 1280px; margin: 0 auto; padding: 96px 32px 30px; }
+.site-footer__brand { display: inline-block; }
+.site-footer__brand img { width: 230px; height: 96px; object-fit: contain; object-position: left center; }
+.site-footer__grid { display: grid; grid-template-columns: 1fr 1fr 1fr .92fr 2.1fr; gap: 32px; margin-top: 40px; }
+.site-footer h2 { font-size: 15px; line-height: 24px; font-weight: 600; }
+.site-footer__links { display: grid; gap: 16px; margin-top: 24px; font-size: 13px; line-height: 24px; font-weight: 400; }
+.site-footer a { transition: color .2s; }
+.site-footer a:hover { color: #38649a; text-decoration: underline; text-underline-offset: 4px; }
+.site-footer a:focus-visible, .footer-help a:focus-visible, .footer-help button:focus-visible { outline: 2px solid #38649a; outline-offset: 5px; border-radius: 2px; }
+.site-footer__socials { display: flex; align-items: center; gap: 24px; margin: 22px 0 30px; color: #080b10; }
+.footer-icon { width: 22px; height: 22px; flex-shrink: 0; }
+.site-footer__details { display: grid; gap: 10px; margin-top: 22px; font-style: normal; font-size: 13px; line-height: 22px; }
+.site-footer__details a { display: flex; align-items: flex-start; gap: 10px; min-width: 0; }
+.site-footer__details span { overflow-wrap: anywhere; }
+.site-footer__details .footer-icon { color: #5d6677; }
+.site-footer__copyright { margin-top: 96px; padding-top: 30px; border-top: 1px solid #dfe2e6; text-align: center; font-size: 13px; line-height: 24px; }
+.footer-help { position: fixed; right: 32px; bottom: 30px; z-index: 45; display: flex; flex-direction: column; align-items: flex-end; gap: 10px; }
+.footer-help__prompt { display: flex; align-items: center; gap: 10px; padding: 9px 14px; border-radius: 12px; background: #071e49; color: white; font-size: 12px; }
+.footer-help__prompt[hidden] { display: none; }
+.footer-help__prompt button { cursor: pointer; font-size: 20px; line-height: 20px; }
+.footer-help__button { display: grid; width: 38px; height: 38px; place-items: center; border: 3px solid white; border-radius: 50%; background: #35c653; color: white; box-shadow: 0 2px 6px #071e491a; }
+.footer-help__button .footer-icon { width: 26px; height: 26px; stroke-width: 1.7; }
+@media (max-width: 1023px) {
+    .site-footer__container { padding-top: 64px; }
+    .site-footer__grid { grid-template-columns: repeat(4, 1fr); row-gap: 40px; }
+    .site-footer__contact { grid-column: span 4; max-width: 480px; }
+    .site-footer__copyright { margin-top: 56px; }
+}
+@media (max-width: 639px) {
+    .site-footer__container { padding: 48px 24px 88px; }
+    .site-footer__brand img { width: 210px; height: 88px; }
+    .site-footer__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 32px 20px; margin-top: 32px; }
+    .site-footer__contact { grid-column: span 2; }
+    .site-footer__links { margin-top: 18px; gap: 12px; }
+    .site-footer__copyright { margin-top: 40px; padding-top: 24px; }
+    .footer-help { right: 18px; bottom: 18px; }
+}
+
+@theme {
+    --color-brand-navy: #071e49;
+    --color-brand-navy-soft: #06183a;
+    --color-brand-sky: #b5e0ea;
+    --color-brand-green: #92d05d;
+    --color-page: #f1f5f9;
+    --color-surface: #ffffff;
+    --color-border-subtle: #e2e8f0;
+    --color-text-muted: #64748b;
+}
+
+:root {
+    --brand-navy: #071e49;
+    --brand-navy-hover: #06183a;
+    --brand-green: #92d05d;
+    --page-background: #f1f5f9;
+    --surface: #ffffff;
+    --surface-muted: #f7f9fc;
+    --border-subtle: #e2e8f0;
+    --text-primary: #071e49;
+    --text-muted: #64748b;
+}
+
+.target-flip {
+    perspective: 1500px;
+}
+
+.target-flip__inner {
+    transform-style: preserve-3d;
+    transition: transform 700ms ease;
+}
+
+.target-flip:hover .target-flip__inner,
+.target-flip:focus-within .target-flip__inner {
+    transform: rotateY(180deg);
+}
+
+.target-flip__face {
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+
+.target-flip__back {
+    transform: rotateY(180deg);
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .target-flip__inner {
+        transition: none;
+    }
+}
+
+.rich-content p {
+    margin-bottom: 1.25em;
+}
+
+.rich-content h2,
+.rich-content h3 {
+    margin-top: 1.5em;
+    margin-bottom: 0.75em;
+    font-weight: 800;
+    color: var(--text-primary);
+}
+
+.rich-content ul,
+.rich-content ol {
+    margin-bottom: 1.25em;
+    padding-left: 1.5em;
+}
+
+.rich-content ul {
+    list-style-type: disc;
+}
+
+.rich-content ol {
+    list-style-type: decimal;
+}
+
+.rich-content a {
+    color: var(--text-primary);
+    text-decoration: underline;
+}
+
+.rich-content img {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    border-radius: 0.5rem;
+}
+
+.rich-content blockquote {
+    margin: 1.5em 0;
+    border-left: 3px solid var(--brand-navy);
+    padding-left: 1em;
+    color: var(--text-muted);
+    font-style: italic;
+}
+
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+@source '../../storage/framework/views/*.php';
+@source '../**/*.blade.php';
+@source '../**/*.js';
+
+@theme {
+    --font-sans: 'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+        'Segoe UI Symbol', 'Noto Color Emoji';
+}
