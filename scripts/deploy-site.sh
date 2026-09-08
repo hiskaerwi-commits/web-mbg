@@ -370,11 +370,27 @@ server
 }
 EOF
 
+CRON_SCRIPT="${SITE_DIR}/cron-fetch-news.sh"
+cat > "$CRON_SCRIPT" <<EOF
+#!/bin/bash
+cd ${SITE_DIR}
+${NPM_BIN} run fetch:bgn-press-releases
+${PHP_BIN} artisan bgn:import-press-releases bgn-press-releases.json
+${NPM_BIN} run fetch:bgn-photos
+${PHP_BIN} artisan bgn:import-photos bgn-photos.json
+EOF
+chmod +x "$CRON_SCRIPT"
+chown www:www "$CRON_SCRIPT"
+
 echo
 echo "=================================================="
 echo " 2) Cron — paste ini ke aaPanel > Cron Job > Add Task (Shell Script, Daily, user root)"
 echo "=================================================="
-echo "cd ${SITE_DIR} && ${NPM_BIN} run fetch:bgn-press-releases && ${PHP_BIN} artisan bgn:import-press-releases bgn-press-releases.json && ${NPM_BIN} run fetch:bgn-photos && ${PHP_BIN} artisan bgn:import-photos bgn-photos.json"
+echo "File script sudah dibuat otomatis di $CRON_SCRIPT — kolom Script content di aaPanel"
+echo "tinggal diisi 1 baris pendek ini (command panjang gampang kepotong kalau di-paste"
+echo "langsung ke textarea aaPanel):"
+echo
+echo "bash ${CRON_SCRIPT}"
 
 echo
 echo "=================================================="
