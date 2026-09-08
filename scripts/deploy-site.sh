@@ -148,7 +148,10 @@ fi
 echo "=================================================="
 
 if [ "$ASSUME_YES" -ne 1 ]; then
-    read -r -p "Lanjutkan? Isi folder '$SITE_DIR' akan ditimpa. (ketik 'lanjut') " CONFIRM
+    if [ "$MODE" = "clone" ]; then
+        echo "PERINGATAN: SEMUA isi folder '$SITE_DIR' akan DIHAPUS TOTAL (kecuali .well-known) sebelum clone."
+    fi
+    read -r -p "Lanjutkan? (ketik 'lanjut') " CONFIRM
     if [ "$CONFIRM" != "lanjut" ]; then
         echo "Dibatalkan."
         exit 1
@@ -171,7 +174,11 @@ if [ "$MODE" = "clone" ]; then
     if [ -f .user.ini ]; then
         chattr -i .user.ini 2>/dev/null || true
     fi
-    rm -f .htaccess .user.ini 404.html 502.html index.html
+    # Bersihin SEMUA isi folder (default file aaPanel, atau sisa percobaan
+    # deploy sebelumnya) kecuali .well-known (dipakai validasi SSL) dan
+    # script ini sendiri (biar gak ngehapus file yang lagi dieksekusi).
+    SELF_NAME="$(basename "$0")"
+    find . -mindepth 1 -maxdepth 1 ! -name '.well-known' ! -name "$SELF_NAME" -exec rm -rf {} +
 
     TMP_CLONE_DIR=$(mktemp -d)
     git clone "$REPO_URL" "$TMP_CLONE_DIR"
