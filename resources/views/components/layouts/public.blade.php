@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ $settings->default_meta_title ?: $settings->display_name }}</title>
     <meta name="description" content="{{ $settings->default_meta_description }}">
+    <link rel="canonical" href="{{ rtrim(config('app.url'), '/') }}{{ request()->getPathInfo() }}">
     @if ($settings->google_site_verification)
         <meta name="google-site-verification" content="{{ $settings->google_site_verification }}">
     @endif
